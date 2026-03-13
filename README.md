@@ -59,7 +59,7 @@ Managing inventory data trapped in Excel files is painful. Teams spend hours man
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-inventory-assistant.git
+git clone https://github.com/unifyservices/ai-inventory-assistant.git
 cd ai-inventory-assistant
 
 # Create virtual environment
